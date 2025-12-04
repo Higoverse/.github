@@ -15,4 +15,4 @@ Higoverse is building Africa’s next-generation digital ecosystem.
 A powerful platform that connects **real life**, **real people**, and **real technology** to simplify and modernize day-to-day activities across Rwanda and interior Africa.
 
 ---
-<h2 align="center">🚀 “Explore the world beyond imagination. Build the future beyond limits.”</h2>
+<h2>“Explore the world beyond imagination. Build the future beyond limits.”</h2>
