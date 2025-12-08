@@ -1,4 +1,4 @@
-<!-- Higoverse README --->
+<!-- Higoverse README -->
 
 <p align="center">
   <img src="https://visitvolcanoesnationalpark.com/wp-content/uploads/2020/02/The-Radisson-Blu-Hotel-Convention-Center.jpg" alt="Higoverse Banner" style="width: 100%; border-radius: 0;" />
